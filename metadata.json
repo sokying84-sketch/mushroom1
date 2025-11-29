@@ -1,0 +1,7 @@
+{
+  "name": "village C (sy send me)",
+  "description": "A mushroom processing, packing, and inventory management system integrated with Google Sheets workflows.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
